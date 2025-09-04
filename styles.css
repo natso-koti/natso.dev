@@ -128,9 +128,7 @@ h2 {
 }
 
 #instagram-container,
-#twitter-container,
-#github-container,
-#facebook-container {
+#github-container {
   display: grid;
   grid-template-columns: 0.5fr 0.5fr;
   margin-left: 22em;
